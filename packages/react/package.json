@@ -1,5 +1,5 @@
 {
-  "name": "@oseasmoreto/tokens",
+  "name": "@oseasmoreto/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -10,9 +10,10 @@
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
   },
   "keywords": [],
-  "author": "Oséas Moreto",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@oseasmoreto/tokens": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }
