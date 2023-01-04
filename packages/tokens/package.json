@@ -11,8 +11,9 @@
   },
   "keywords": [],
   "author": "Oséas Moreto",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
+    "@oseasmoreto/ts-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }
