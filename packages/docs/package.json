@@ -25,9 +25,11 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@oseasmoreto/eslint-config": "*",
     "@oseasmoreto/react": "*",
     "@oseasmoreto/tokens": "*",
-    "@oseasmoreto/eslint-config": "*",
+    "@oseasmoreto/ts-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
