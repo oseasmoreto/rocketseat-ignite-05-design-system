@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Button, ButtonProps } from '@oseasmoreto/react'
 
 export default {
-  title: 'Button',
+  title: 'Home/Button',
   component: Button,
 } as Meta<ButtonProps>
 
