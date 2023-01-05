@@ -24,6 +24,10 @@ export const Text = styled('p', {
       '9xl': { fontSize: '$9xl' },
     },
   },
+
+  defaultVariants: {
+    size: 'md',
+  },
 })
 
 export interface TextProps extends ComponentProps<typeof Text> {
