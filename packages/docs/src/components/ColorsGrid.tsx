@@ -1,4 +1,4 @@
-import { colors } from '@oseasmoreto/tokens'
+import { colors } from '@oseasmoreto-ignite-ui/tokens'
 
 import { getContrast } from 'polished'
 

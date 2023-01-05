@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Button, ButtonProps } from '@oseasmoreto/react'
+import { Button, ButtonProps } from '@oseasmoreto-ignite-ui/react'
 
 import { ArrowRight } from 'phosphor-react'
 

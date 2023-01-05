@@ -1,5 +1,5 @@
 {
-  "name": "@oseasmoreto/eslint-config",
+  "name": "@oseasmoreto-ignite-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

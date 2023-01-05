@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Avatar, AvatarProps } from '@oseasmoreto/react'
+import { Avatar, AvatarProps } from '@oseasmoreto-ignite-ui/react'
 
 export default {
   title: 'Data display/Avatar',

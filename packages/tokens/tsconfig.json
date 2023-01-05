@@ -1,4 +1,4 @@
 {
-  "extends": "@oseasmoreto/ts-config/base.json",
+  "extends": "@oseasmoreto-ignite-ui/ts-config/base.json",
   "include": ["src"]
 }
